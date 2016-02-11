@@ -1,0 +1,4 @@
+# Server
+exclude:          [.gitignore,README.md]
+
+url: http://thunderbit.github.io/jekyll-twitter
